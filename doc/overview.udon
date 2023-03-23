@@ -1,0 +1,12 @@
+;>
+
+- Developer: ~hansel-ribbur
+- License: MIT
+- App link: [~zod/delta](web+urbitgraph://~zod/echo)
+- Source repo: [https://github.com/hansel-ribbur/echo](https://github.com/hansel-ribbur/echo)
+- Bug reports: [https://github.com/hansel-ribbur/echo/issues](https://github.com/hansel-ribbur/echo/issues)
+
+The %echo app allows a ship to push a number onto the stack of itself or another ship,
+as well as to remove a number in the stack.
+
+App publishers may include documentation for ordinary users and/or developers.
